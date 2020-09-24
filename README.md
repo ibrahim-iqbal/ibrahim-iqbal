@@ -9,8 +9,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahim-iqbal&show_icons=true&theme=radical)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mol6phryjyulpynwb1qlnd7pg&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
-
 <p align="left">
 <a href="https://twitter.com/ibrahimiqbal163" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ibrahimiqbal163" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/11620930" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11620930" height="30" width="30" /></a>
