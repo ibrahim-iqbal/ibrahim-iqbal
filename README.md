@@ -15,9 +15,10 @@
 <a href="https://github.com/ibrahim-iqbal" align ="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-iqbal&theme=dark&hide_langs_below=1" />
 </a>
-
+<!--
 <p align="left">
 <a href="https://twitter.com/ibrahimiqbal163" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ibrahimiqbal163" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/11620930" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11620930" height="30" width="30" /></a>
 <a href="https://instagram.com/ibrhm.x.117" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ibrhm.x.117" height="30" width="30" /></a>
 </p>
+-->
