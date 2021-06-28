@@ -7,13 +7,13 @@
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim-iqbal" alt="ibrahim-iqbal" /> </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahim-iqbal&show_icons=true&theme=radical)
-
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahim-iqbal&show_icons=true&theme=radical)
+ -->
 <br/>
 
-<a href="https://github.com/ibrahim-iqbal" align ="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-iqbal&theme=dark&hide_langs_below=1" />
-</a>
+<!-- <a href="https://github.com/ibrahim-iqbal" align ="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-iqbal&theme=dark&hide_langs_below=10" />
+</a> -->
 <!--
 <p align="left">
 <a href="https://twitter.com/ibrahimiqbal163" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ibrahimiqbal163" height="30" width="30" /></a>
