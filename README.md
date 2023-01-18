@@ -10,4 +10,3 @@
 
 -How to reach me **ibiq1630@gmail.com**
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-iqbal&show_icons=true&locale=en&theme=dark&&hide_border=truelayout=compact" alt="ibrahim-iqbal" /></p>
