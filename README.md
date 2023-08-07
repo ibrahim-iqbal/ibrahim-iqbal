@@ -10,3 +10,7 @@
 
 -How to reach me **ibiq1630@gmail.com**
 <br/>
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br/>
