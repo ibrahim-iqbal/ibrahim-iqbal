@@ -1,7 +1,7 @@
 <h1 align="left">Mohd. Ibrahim Iqbal</h1>
 
 <p align="left">
-  <strong>Android Engineer</strong> • Jetpack Compose • Clean Architecture • Performance-Focused
+  <strong>Senior Mobile Engineer & Mobile Team Lead</strong> • Android (Kotlin, Jetpack Compose) • Flutter • LLM Integration
 </p>
 
 <p align="left">
@@ -12,43 +12,68 @@
 
 ### 🧠 About Me
 
-I’m a hardcore Android engineer with a strong focus on **UI/UX precision**, **scalable architecture**, and **runtime performance**.  
-I enjoy building Android applications that are fast, maintainable, and thoughtfully designed — from Compose-driven interfaces to clean, testable core logic.
+Senior mobile engineer and team lead with 6+ years shipping production-grade Android and Flutter apps to Google Play Store and Apple App Store. Lead the mobile team at Jamtech — architecture direction, code review, sprint planning, hiring input, and mentoring.
 
-I’m actively interested in **Android roles**, **freelance/contract work**, and **open-source collaboration**.
+Lead Flutter developer and project manager on the Young Engineers product suite (ClassWise, BuildWise, WAV-Tech), and sole developer + PM on ReplyMind AI (native Kotlin + Jetpack Compose + cloud LLM + Play Billing).
+
+Actively interested in **senior mobile roles**, **team lead roles**, **freelance/contract work**, and **open-source collaboration**.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Core**
-- Kotlin, Java  
-- Jetpack Compose, XML  
-- Android SDK  
+**Native Android**
+- Kotlin, Java
+- Jetpack Compose, XML
+- Android SDK, MVVM, MVI
+- Coroutines, Flow, Room, Retrofit
+- Hilt/Dagger, WorkManager
 
-**Architecture & Quality**
-- MVVM, Clean Architecture, MVI  
-- Coroutines, Flow  
-- Modularization, performance optimization  
+**Cross-Platform (Flutter)**
+- Flutter, Dart, Flutter Web
+- BLoC, Cubit, Provider, Riverpod
+- Platform Channels, Isolates
+- Offline-first architecture (SQLite, Hive)
 
-**Tooling**
-- Git, CI/CD  
-- Firebase (Auth, FCM, Analytics)
+**AI & LLM**
+- Cloud LLM integration
+- Prompt engineering
+- On-device AI
+
+**Backend & Cloud**
+- Firebase (Auth, Firestore, FCM, Crashlytics)
+- AWS (EC2, S3, VPC), Docker
+- Laravel, REST APIs, GraphQL
+- Google Play Billing
+
+**DevOps & CI/CD**
+- Git, GitHub, CircleCI, Fastlane
+- Google Play Console, App Store Connect
+- Semantic versioning, staged rollouts
 
 ---
 
-### 🚀 What I Care About
-- Writing clean, readable, and scalable code  
-- High-quality UI/UX with Compose  
-- Performance, memory efficiency, and smooth animations  
-- Long-term maintainability over quick hacks  
+### 🚀 Shipped
+
+- **ReplyMind AI** — AI messaging assistant for Android (Kotlin, Jetpack Compose, Cloud LLM, Play Billing) → [Play Store](https://play.google.com/store/apps/details?id=jamtech.replymind.io)
+- **ClassWise** — Operations platform for education programs (Flutter, iOS + Android + Web) → [Play Store](https://play.google.com/store/apps/details?id=ye.cms.app)
+- **BuildWise** — Offline-first learning companion (Flutter, SQLite + Hive) → [Play Store](https://play.google.com/store/apps/details?id=ye.buildwise.app)
+- **WAV-Tech** — Remote watch authenticity verification (Flutter, Platform Channels, AWS) → [Play Store](https://play.google.com/store/apps/details?id=io.wavtech.app)
+
+---
+
+### 💡 What I Care About
+- Writing clean, readable, and scalable code
+- High-quality UI/UX with Compose and Flutter
+- Performance, memory efficiency, and smooth animations
+- Long-term maintainability over quick hacks
+- Mentoring junior developers on architecture and clean code
 
 ---
 
 ### 🎮 Outside Code
-
-- Games: Halo, Call of Duty, Diablo, Dragon Age, Red Dead Redemption  
-- Music: Eminem, Raftaar, KR$NA, Talha Anjum  
+- Games: Halo, Call of Duty, Diablo, Dragon Age, Red Dead Redemption
+- Music: Eminem, Raftaar, KR$NA
 
 Competitive mindset, story-driven focus — same approach I bring to engineering.
 
@@ -56,10 +81,7 @@ Competitive mindset, story-driven focus — same approach I bring to engineering
 
 ### 📫 Get in Touch
 - Email: **ibiq1630@gmail.com**
-- Open to Android opportunities, freelance work, and OSS contributions
+- LinkedIn: [in/mohd-ibrahim-iqbal](https://www.linkedin.com/in/mohd-ibrahim-iqbal/)\
+- Open to senior mobile roles, team lead roles, freelance work, and OSS contributions
 
 ---
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)
-
-[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
