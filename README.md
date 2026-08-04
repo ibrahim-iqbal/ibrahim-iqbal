@@ -14,7 +14,7 @@
 
 Senior mobile engineer and team lead with 6+ years shipping production-grade Android and Flutter apps to Google Play Store and Apple App Store. Lead the mobile team at Jamtech — architecture direction, code review, sprint planning, hiring input, and mentoring.
 
-Lead Flutter developer and project manager on the Young Engineers product suite (ClassWise, BuildWise, WAV-Tech), and sole developer + PM on ReplyMind AI (native Kotlin + Jetpack Compose + cloud LLM + Play Billing).
+Lead Flutter developer on the Young Engineers product suite (ClassWise, BuildWise), and sole developer + PM on ReplyMind AI (native Kotlin + Jetpack Compose + cloud LLM + Play Billing).
 
 Actively interested in **senior mobile roles**, **team lead roles**, **freelance/contract work**, and **open-source collaboration**.
 
