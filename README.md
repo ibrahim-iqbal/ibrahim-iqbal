@@ -8,6 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=ibrahim-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-iqbal&show_icons=true&hide_border=true&theme=tokyonight" alt="ibrahim-iqbal GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-iqbal&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" height="160" />
+</p>
+
 ---
 
 ### 🧠 About Me
