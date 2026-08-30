@@ -81,7 +81,7 @@ Competitive mindset, story-driven focus — same approach I bring to engineering
 
 ### 📫 Get in Touch
 - Email: **ibiq1630@gmail.com**
-- LinkedIn: [in/mohd-ibrahim-iqbal](https://www.linkedin.com/in/mohd-ibrahim-iqbal/)\
+- LinkedIn: [in/mohd-ibrahim-iqbal](https://www.linkedin.com/in/mohd-ibrahim-iqbal/)
 - Open to senior mobile roles, team lead roles, freelance work, and OSS contributions
 
 ---
