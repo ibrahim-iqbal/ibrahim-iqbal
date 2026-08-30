@@ -19,6 +19,10 @@
   <img src="https://streak-stats.demolab.com?user=ibrahim-iqbal&hide_border=true&theme=tokyonight" alt="GitHub streak" height="160" />
 </p>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-iqbal&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+</p>
+
 ---
 
 ### 🧠 About Me
