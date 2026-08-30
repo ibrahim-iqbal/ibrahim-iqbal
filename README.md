@@ -91,6 +91,21 @@ Actively interested in **senior mobile roles**, **team lead roles**, **freelance
 
 ---
 
+### 🌱 Open Source Contributions
+
+Recent PRs across the Android and Flutter ecosystems:
+
+- **ChuckerTeam/chucker** — docs: recommend `addNetworkInterceptor` for OkHttp integration
+- **krille-chan/fluffychat** — fix: localize hardcoded `Accounts and settings` tooltip
+- **airbnb/lottie-android** — replace deprecated MD5 with SHA-256 in `NetworkCache`
+- **imaNNeo/fl_chart** — fix: skip zero-value sections in PieChart touch detection
+- **fluttercommunity/chewie** — feat: expose `showPlayButton` on `ChewieController`
+- **Automattic/pocket-casts-android** — fix: use activity window for status bar icons in dialog fragments
+- **meilisearch/meilisearch-dart** — feat: add Dynamic Search Rules endpoints
+- **flutter/samples** — docs: typo fix in README
+
+---
+
 ### 💡 What I Care About
 - Writing clean, readable, and scalable code
 - High-quality UI/UX with Compose and Flutter
