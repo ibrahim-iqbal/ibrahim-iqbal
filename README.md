@@ -13,6 +13,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-iqbal&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" height="160" />
 </p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=ibrahim-iqbal&hide_border=true&theme=tokyonight" alt="GitHub streak" height="160" />
+</p>
+
 ---
 
 ### 🧠 About Me
