@@ -74,6 +74,14 @@ Actively interested in **senior mobile roles**, **team lead roles**, **freelance
 
 ---
 
+### 🔭 Currently Building
+
+- Scaling **ReplyMind AI** — LLM-driven messaging assistant with Compose UI and Play Billing
+- Iterating on **ClassWise** — cross-platform Flutter operations product for education programs
+- Contributing to Android and Flutter open source (Chucker, FluffyChat, lottie-android, chewie, and more)
+
+---
+
 ### 🚀 Shipped
 
 - **ReplyMind AI** — AI messaging assistant for Android (Kotlin, Jetpack Compose, Cloud LLM, Play Billing) → [Play Store](https://play.google.com/store/apps/details?id=jamtech.replymind.io)
