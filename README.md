@@ -82,7 +82,7 @@ Actively interested in **senior mobile roles**, **team lead roles**, **freelance
 
 - Scaling **ReplyMind AI** — LLM-driven messaging assistant with Compose UI and Play Billing
 - Iterating on **ClassWise** — cross-platform Flutter operations product for education programs
-- Contributing to Android and Flutter open source (Chucker, FluffyChat, lottie-android, chewie, and more)
+- Contributing to Android and Flutter open source (chewie, Chucker, FluffyChat, RetroMusicPlayer, Thunderbird, lottie-android, and more)
 
 ---
 
@@ -97,16 +97,28 @@ Actively interested in **senior mobile roles**, **team lead roles**, **freelance
 
 ### 🌱 Open Source Contributions
 
-Recent PRs across the Android and Flutter ecosystems:
+Recent PRs across the Android and Flutter ecosystems.
 
-- **ChuckerTeam/chucker** — docs: recommend `addNetworkInterceptor` for OkHttp integration
-- **krille-chan/fluffychat** — fix: localize hardcoded `Accounts and settings` tooltip
-- **airbnb/lottie-android** — replace deprecated MD5 with SHA-256 in `NetworkCache`
-- **imaNNeo/fl_chart** — fix: skip zero-value sections in PieChart touch detection
-- **fluttercommunity/chewie** — feat: expose `showPlayButton` on `ChewieController`
-- **Automattic/pocket-casts-android** — fix: use activity window for status bar icons in dialog fragments
-- **meilisearch/meilisearch-dart** — feat: add Dynamic Search Rules endpoints
-- **flutter/samples** — docs: typo fix in README
+**Merged**
+
+- [fluttercommunity/chewie #962](https://github.com/fluttercommunity/chewie/pull/962) — expose `showPlayButton` on `ChewieController`
+- [ChuckerTeam/chucker #1676](https://github.com/ChuckerTeam/chucker/pull/1676) — docs: recommend `addNetworkInterceptor` for OkHttp integration
+- [krille-chan/fluffychat #3530](https://github.com/krille-chan/fluffychat/pull/3530) — fix: localize hardcoded `Accounts and settings` tooltip
+- [simonoppowa/OpenNutriTracker #590](https://github.com/simonoppowa/OpenNutriTracker/pull/590) — feat: suggest meal type from the current time
+- [RetroMusicPlayer/RetroMusicPlayer #2042](https://github.com/RetroMusicPlayer/RetroMusicPlayer/pull/2042) — fix ViewPager crash when a playing song is removed from device
+- [RetroMusicPlayer/RetroMusicPlayer #2030](https://github.com/RetroMusicPlayer/RetroMusicPlayer/pull/2030) — read title from file metadata when MediaStore mangles emoji
+- [thunderbird/thunderbird-android #11309](https://github.com/thunderbird/thunderbird-android/pull/11309) — fix crash when camera result arrives after process death
+- [kiwix/kiwix-android #5005](https://github.com/kiwix/kiwix-android/pull/5005) — stop status-bar icon flickering during downloads
+
+**In review**
+
+- [airbnb/lottie-android #2735](https://github.com/airbnb/lottie-android/pull/2735) — replace deprecated MD5 with SHA-256 in `NetworkCache`
+- [imaNNeo/fl_chart #2116](https://github.com/imaNNeo/fl_chart/pull/2116) — skip zero-value sections in PieChart touch detection
+- [Automattic/pocket-casts-android #5704](https://github.com/Automattic/pocket-casts-android/pull/5704) — use activity window for status bar icons in dialog fragments
+- [meilisearch/meilisearch-dart #504](https://github.com/meilisearch/meilisearch-dart/pull/504) — add `indexSize` and `usedIndexSize` to `IndexStats`
+- [meilisearch/meilisearch-dart #497](https://github.com/meilisearch/meilisearch-dart/pull/497) — add Dynamic Search Rules endpoints
+- [simonoppowa/OpenNutriTracker #995](https://github.com/simonoppowa/OpenNutriTracker/pull/995) — actionable empty state for no-result food search
+- [flutter/samples #2876](https://github.com/flutter/samples/pull/2876) — docs: typo fix in README
 
 ---
 
