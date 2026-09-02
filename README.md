@@ -11,11 +11,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma.vercel.app/api?username=ibrahim-iqbal&show_icons=true&hide_border=true&theme=tokyonight" alt="ibrahim-iqbal GitHub stats" height="160" />
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=ibrahim-iqbal&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" height="160" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com?user=ibrahim-iqbal&hide_border=true&theme=tokyonight" alt="GitHub streak" height="160" />
 </p>
 
