@@ -112,6 +112,8 @@ Recent PRs across the Android and Flutter ecosystems.
 
 **In review**
 
+- [FriesI23/mhabit #657](https://github.com/FriesI23/mhabit/pull/657) — cycle check-in status back to unknown after skip
+- [SimformSolutionsPvtLtd/flutter_calendar_view #558](https://github.com/SimformSolutionsPvtLtd/flutter_calendar_view/pull/558) — pass `LiveTimeIndicatorSettings` straight through in `MultiDayView`
 - [airbnb/lottie-android #2735](https://github.com/airbnb/lottie-android/pull/2735) — replace deprecated MD5 with SHA-256 in `NetworkCache`
 - [imaNNeo/fl_chart #2116](https://github.com/imaNNeo/fl_chart/pull/2116) — skip zero-value sections in PieChart touch detection
 - [Automattic/pocket-casts-android #5704](https://github.com/Automattic/pocket-casts-android/pull/5704) — use activity window for status bar icons in dialog fragments
