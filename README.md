@@ -40,17 +40,43 @@
 
 ---
 
-### 🌱 Open Source
+### 🌱 Open Source Contributions
 
-Recent contributions across the Android and Flutter ecosystems. See the [full list of pull requests](https://github.com/pulls?q=is%3Apr+author%3Aibrahim-iqbal) for the live state.
+21 merged pull requests across the Android and Flutter ecosystems. [Full list →](https://github.com/pulls?q=is%3Apr+author%3Aibrahim-iqbal+is%3Amerged+-user%3Aibrahim-iqbal)
 
-Highlights:
+#### [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) — 8 merged PRs (Flutter · 2.5k ⭐)
 
-- [thunderbird/thunderbird-android #11309](https://github.com/thunderbird/thunderbird-android/pull/11309) — fix camera-result crash after process death
-- [RetroMusicPlayer/RetroMusicPlayer #2042](https://github.com/RetroMusicPlayer/RetroMusicPlayer/pull/2042) — fix ViewPager crash on removed track
-- [kiwix/kiwix-android #5005](https://github.com/kiwix/kiwix-android/pull/5005) — status-bar icon flicker fix
-- [ChuckerTeam/chucker #1676](https://github.com/ChuckerTeam/chucker/pull/1676) — docs: `addNetworkInterceptor` for OkHttp
-- [simonoppowa/OpenNutriTracker #590](https://github.com/simonoppowa/OpenNutriTracker/pull/590) — meal-type suggestion from local time
+Top contributor outside the maintainer. Features and fixes across meal logging, recipes, nutrition data, and analytics:
+
+- [#1197](https://github.com/simonoppowa/OpenNutriTracker/pull/1197) — 7-day moving-average overlay on weight-trend chart
+- [#1195](https://github.com/simonoppowa/OpenNutriTracker/pull/1195) — opt-in grams-first default in Settings
+- [#1101](https://github.com/simonoppowa/OpenNutriTracker/pull/1101) — quick-serving chips (0.5×/1×/2× + 100 g)
+- [#995](https://github.com/simonoppowa/OpenNutriTracker/pull/995) — scan and create-custom actions on empty search
+- [#590](https://github.com/simonoppowa/OpenNutriTracker/pull/590) — meal-type suggestion from current time
+- [#1196](https://github.com/simonoppowa/OpenNutriTracker/pull/1196), [#1169](https://github.com/simonoppowa/OpenNutriTracker/pull/1169), [#1168](https://github.com/simonoppowa/OpenNutriTracker/pull/1168) — recipe import fixes + niacin data mapping
+
+#### [Chucker](https://github.com/ChuckerTeam/chucker) — 5 merged PRs (Kotlin · 4.5k ⭐)
+
+- [#1682](https://github.com/ChuckerTeam/chucker/pull/1682), [#1681](https://github.com/ChuckerTeam/chucker/pull/1681), [#1690](https://github.com/ChuckerTeam/chucker/pull/1690) — Arabic, Urdu, Hindi translations
+- [#1689](https://github.com/ChuckerTeam/chucker/pull/1689) — revert translated export markers to English
+- [#1676](https://github.com/ChuckerTeam/chucker/pull/1676) — docs: recommend `addNetworkInterceptor` for OkHttp
+
+#### Other Notable Merges
+
+| Project | PR | What |
+|---|---|---|
+| **thunderbird-android** (14k ⭐) | [#11309](https://github.com/thunderbird/thunderbird-android/pull/11309) | Fix crash when camera result arrives after process death |
+| **RetroMusicPlayer** (5.3k ⭐) | [#2042](https://github.com/RetroMusicPlayer/RetroMusicPlayer/pull/2042) | Fix ViewPager crash on removed track |
+| **RetroMusicPlayer** | [#2030](https://github.com/RetroMusicPlayer/RetroMusicPlayer/pull/2030) | Read title from file metadata when MediaStore mangles emoji |
+| **kiwix-android** (1.5k ⭐) | [#5005](https://github.com/kiwix/kiwix-android/pull/5005) | Stop status-bar icon flickering during downloads |
+| **openfoodfacts/smooth-app** (1.4k ⭐) | [#7764](https://github.com/openfoodfacts/smooth-app/pull/7764) | Use canonical /facets/editors URL for profile link |
+| **mhabit** (1.6k ⭐) | [#657](https://github.com/FriesI23/mhabit/pull/657) | Cycle check-in status back to unknown after skip |
+| **chewie** (2k ⭐) | [#962](https://github.com/fluttercommunity/chewie/pull/962) | Expose `showPlayButton` on ChewieController |
+| **fluffychat** (3.1k ⭐) | [#3530](https://github.com/krille-chan/fluffychat/pull/3530) | Localize tooltip in ClientChooserButton |
+
+#### Currently Open (16 PRs)
+
+Active PRs on [airbnb/lottie-android](https://github.com/airbnb/lottie-android/pull/2735), [nextcloud/android](https://github.com/nextcloud/android/pull/17562), [owncloud/android](https://github.com/owncloud/android/pull/4986), [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube/pull/8789), [zulip/zulip-flutter](https://github.com/zulip/zulip-flutter/pull/2451), [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone/pull/902), [ReadYou](https://github.com/ReadYouApp/ReadYou/pull/1324), and others.
 
 ---
 
