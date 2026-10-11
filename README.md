@@ -78,9 +78,9 @@ Top contributor outside the maintainer. Features and fixes across meal logging, 
 | **chewie** (2k ⭐) | [#962](https://github.com/fluttercommunity/chewie/pull/962) | Expose `showPlayButton` on ChewieController |
 | **fluffychat** (3.1k ⭐) | [#3530](https://github.com/krille-chan/fluffychat/pull/3530) | Localize tooltip in ClientChooserButton |
 
-#### Currently Open (21 PRs)
+#### Currently Open (23 PRs)
 
-Active PRs on [airbnb/lottie-android](https://github.com/airbnb/lottie-android/pull/2735), [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy/pull/9046), [meilisearch-dart](https://github.com/meilisearch/meilisearch-dart/pull/497), [fl_chart](https://github.com/imaNNeo/fl_chart/pull/2128), [wikimedia commons](https://github.com/commons-app/apps-android-commons/pull/6978), [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube/pull/8789), [zulip/zulip-flutter](https://github.com/zulip/zulip-flutter/pull/2451), [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone/pull/902), [ReadYou](https://github.com/ReadYouApp/ReadYou/pull/1324), and others.
+Active PRs on [airbnb/lottie-android](https://github.com/airbnb/lottie-android/pull/2735), [NewPipe](https://github.com/TeamNewPipe/NewPipe/pull/13884), [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy/pull/9046), [meilisearch-dart](https://github.com/meilisearch/meilisearch-dart/pull/497), [fl_chart](https://github.com/imaNNeo/fl_chart/pull/2128), [wikimedia commons](https://github.com/commons-app/apps-android-commons/pull/6978), [zulip-flutter](https://github.com/zulip/zulip-flutter/pull/2451), [pocket-casts-android](https://github.com/Automattic/pocket-casts-android/pull/5704), [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone/pull/902), and others.
 
 ---
 
