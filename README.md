@@ -42,12 +42,14 @@
 
 ### 🌱 Open Source Contributions
 
-21 merged pull requests across the Android and Flutter ecosystems. [Full list →](https://github.com/pulls?q=is%3Apr+author%3Aibrahim-iqbal+is%3Amerged+-user%3Aibrahim-iqbal)
+29 merged pull requests across the Android and Flutter ecosystems — including NewPipe, Thunderbird, flutter/samples, Open Food Facts, ownCloud, and Kiwix. [Full list →](https://github.com/pulls?q=is%3Apr+author%3Aibrahim-iqbal+is%3Amerged+-user%3Aibrahim-iqbal)
 
-#### [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) — 8 merged PRs (Flutter · 2.5k ⭐)
+#### [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) — 10 merged PRs (Flutter · 2.5k ⭐)
 
 Top contributor outside the maintainer. Features and fixes across meal logging, recipes, nutrition data, and analytics:
 
+- [#1297](https://github.com/simonoppowa/OpenNutriTracker/pull/1297) — hide meal-detail info button when there is no URL to open
+- [#1252](https://github.com/simonoppowa/OpenNutriTracker/pull/1252) — order Recent entries chronologically instead of pinning custom meals
 - [#1197](https://github.com/simonoppowa/OpenNutriTracker/pull/1197) — 7-day moving-average overlay on weight-trend chart
 - [#1195](https://github.com/simonoppowa/OpenNutriTracker/pull/1195) — opt-in grams-first default in Settings
 - [#1101](https://github.com/simonoppowa/OpenNutriTracker/pull/1101) — quick-serving chips (0.5×/1×/2× + 100 g)
@@ -65,6 +67,8 @@ Top contributor outside the maintainer. Features and fixes across meal logging, 
 
 | Project | PR | What |
 |---|---|---|
+| **NewPipe** (36k ⭐) + **NewPipeExtractor** | [#13874](https://github.com/TeamNewPipe/NewPipe/pull/13874) / [#1551](https://github.com/TeamNewPipe/NewPipeExtractor/pull/1551) | Cross-repo: expose full subtitle names end-to-end (extractor API + app UI) |
+| **ownCloud android** (4k ⭐) | [#4986](https://github.com/owncloud/android/pull/4986), [#4985](https://github.com/owncloud/android/pull/4985) | Null-folder sync crash guard; tablet snackbar width |
 | **thunderbird-android** (14k ⭐) | [#11309](https://github.com/thunderbird/thunderbird-android/pull/11309) | Fix crash when camera result arrives after process death |
 | **RetroMusicPlayer** (5.3k ⭐) | [#2042](https://github.com/RetroMusicPlayer/RetroMusicPlayer/pull/2042) | Fix ViewPager crash on removed track |
 | **RetroMusicPlayer** | [#2030](https://github.com/RetroMusicPlayer/RetroMusicPlayer/pull/2030) | Read title from file metadata when MediaStore mangles emoji |
@@ -74,9 +78,9 @@ Top contributor outside the maintainer. Features and fixes across meal logging, 
 | **chewie** (2k ⭐) | [#962](https://github.com/fluttercommunity/chewie/pull/962) | Expose `showPlayButton` on ChewieController |
 | **fluffychat** (3.1k ⭐) | [#3530](https://github.com/krille-chan/fluffychat/pull/3530) | Localize tooltip in ClientChooserButton |
 
-#### Currently Open (16 PRs)
+#### Currently Open (21 PRs)
 
-Active PRs on [airbnb/lottie-android](https://github.com/airbnb/lottie-android/pull/2735), [nextcloud/android](https://github.com/nextcloud/android/pull/17562), [owncloud/android](https://github.com/owncloud/android/pull/4986), [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube/pull/8789), [zulip/zulip-flutter](https://github.com/zulip/zulip-flutter/pull/2451), [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone/pull/902), [ReadYou](https://github.com/ReadYouApp/ReadYou/pull/1324), and others.
+Active PRs on [airbnb/lottie-android](https://github.com/airbnb/lottie-android/pull/2735), [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy/pull/9046), [meilisearch-dart](https://github.com/meilisearch/meilisearch-dart/pull/497), [fl_chart](https://github.com/imaNNeo/fl_chart/pull/2128), [wikimedia commons](https://github.com/commons-app/apps-android-commons/pull/6978), [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube/pull/8789), [zulip/zulip-flutter](https://github.com/zulip/zulip-flutter/pull/2451), [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone/pull/902), [ReadYou](https://github.com/ReadYouApp/ReadYou/pull/1324), and others.
 
 ---
 
